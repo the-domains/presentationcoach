@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[presentationcoach]]></title>
         <description><![CDATA[presentationcoach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/presentationcoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 01:50:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 01:51:42 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/presentationcoach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[This is Title Text]]></title>
-            <description><![CDATA[<h1>This is Title Text</h1>]]></description>
-            <link>undefinedthis-is-title-text/index.html</link>
+            <description><![CDATA[<article><h1>This is Title Text</h1><p>this is text in the boy</p></article>]]></description>
+            <link>https://thegrid.ai/presentationcoach/this-is-title-text/index.html</link>
             <guid isPermaLink="false">b10fa585-c0d1-4694-9c35-65c9d0cba773</guid>
-            <pubDate>Mon, 11 Apr 2016 01:50:17 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 01:51:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
