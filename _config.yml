@@ -1,7 +1,7 @@
 name: presentationcoach
 favicon: null
-layout_spectrum: 0.31775546493008733
-typography_spectrum: 0.11362911155447364
+layout_spectrum: 1
+typography_spectrum: 0.49787
 cta:
   domain: null
   bucket: null
