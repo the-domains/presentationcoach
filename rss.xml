@@ -4,8 +4,15 @@
         <description><![CDATA[presentationcoach]]></description>
         <link>https://thegrid.ai/presentationcoach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 23:21:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2016 03:32:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/presentationcoach/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Professionals</p>]]></description>
+            <link>https://thegrid.ai/presentationcoach/professionals/index.html</link>
+            <guid isPermaLink="false">a0418e06-74f1-4741-9b0c-668144145653</guid>
+            <pubDate>Mon, 01 Aug 2016 03:32:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is Title Text]]></title>
             <description><![CDATA[<article><h1>This is Title Text</h1><p>this is text in the body</p></article>]]></description>
