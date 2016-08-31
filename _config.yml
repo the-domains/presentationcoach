@@ -32,5 +32,6 @@ navigation:
     url: 'http://www.politico.com'
     type: external
 favicon: null
+title: Look! A Title!
 description: Here's a tagline to mull over
 purpose: []
