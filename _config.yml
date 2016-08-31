@@ -1,19 +1,4 @@
-name: presentationcoach
-favicon: null
-layout_spectrum: 1
 typography_spectrum: 0.49787
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#efe7dd'
@@ -25,4 +10,23 @@ color:
   lightness: 1
   saturation: 0
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 1
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: presentationcoach
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: News
+    url: 'http://www.cnn.com'
+    type: external
+favicon: null
 purpose: []
