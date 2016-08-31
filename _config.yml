@@ -28,5 +28,8 @@ navigation:
   - name: News
     url: 'http://www.cnn.com'
     type: external
+  - name: News
+    url: 'http://www.politico.com'
+    type: external
 favicon: null
 purpose: []
